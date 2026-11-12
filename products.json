@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Auriculares Flow Pro",
+    "category": "Auriculares",
+    "price": 39.9,
+    "old": 49.9,
+    "icon": "🎧",
+    "color": "#e8e5ff",
+    "tag": "Más vendido",
+    "rating": "4.9 (128)"
+  },
+  {
+    "id": 2,
+    "name": "Cargador Turbo 30W",
+    "category": "Carga",
+    "price": 19.9,
+    "old": 24.9,
+    "icon": "🔌",
+    "color": "#e0f4ed",
+    "tag": "Carga rápida",
+    "rating": "4.8 (86)"
+  },
+  {
+    "id": 3,
+    "name": "Auriculares Mini Buds",
+    "category": "Auriculares",
+    "price": 24.9,
+    "old": 29.9,
+    "icon": "🎵",
+    "color": "#fff0e2",
+    "tag": "Nuevo",
+    "rating": "4.7 (64)"
+  },
+  {
+    "id": 4,
+    "name": "Power Bank 10.000 mAh",
+    "category": "Carga",
+    "price": 29.9,
+    "old": 35.9,
+    "icon": "🔋",
+    "color": "#e1efff",
+    "tag": "Para llevar",
+    "rating": "4.8 (102)"
+  },
+  {
+    "id": 5,
+    "name": "Cable Trenzado USB-C",
+    "category": "Accesorios",
+    "price": 9.9,
+    "old": 12.9,
+    "icon": "〰️",
+    "color": "#fce5eb",
+    "tag": "Resistente",
+    "rating": "4.6 (45)"
+  },
+  {
+    "id": 6,
+    "name": "Soporte Flex para móvil",
+    "category": "Accesorios",
+    "price": 14.9,
+    "old": 19.9,
+    "icon": "📱",
+    "color": "#fff4d8",
+    "tag": "Favorito",
+    "rating": "4.8 (71)"
+  },
+  {
+    "id": 7,
+    "name": "Cargador inalámbrico Qi",
+    "category": "Carga",
+    "price": 22.9,
+    "old": 27.9,
+    "icon": "🛜",
+    "color": "#e7e8ff",
+    "tag": "Sin cables",
+    "rating": "4.7 (53)"
+  },
+  {
+    "id": 8,
+    "name": "Auriculares Sport Beat",
+    "category": "Auriculares",
+    "price": 32.9,
+    "old": 39.9,
+    "icon": "🎶",
+    "color": "#e1f4f0",
+    "tag": "Resistentes al sudor",
+    "rating": "4.9 (91)"
+  }
+]
